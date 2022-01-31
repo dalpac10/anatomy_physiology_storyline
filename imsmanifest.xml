@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6KzbQquX0zU_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Intro_to_anatomy_and_physiology</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Intro_to_anatomy_and_physiology_ORG">
+    <organization identifier="Intro_to_anatomy_and_physiology_ORG">
+      <title>Intro_to_anatomy_and_physiology</title>
+      <item identifier="Intro_to_anatomy_and_physiology_SCO" isvisible="true" identifierref="__6KzbQquX0zU_course_id_RES">
+        <title>Intro_to_anatomy_and_physiology</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6KzbQquX0zU_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6ZA0B8JA5U9_80_DX1440_DY1440_CX720_CY540.png" />
+      <file href="mobile/6lTRXxmMfiD_80_DX1442_DY1442_CX721_CY541.png" />
+      <file href="story_content/5qNbZJprT7i_44100_48_0.mp3" />
+      <file href="story_content/69PgFeMVBD7_44100_48_0.mp3" />
+      <file href="mobile/6kmwFlYu5wa_80_DX1434_DY1434_CX1128_CY849.jpg" />
+      <file href="mobile/68lJQK2K7xE_80_DX286_DY286_CX143_CY136.png" />
+      <file href="story_content/5d8pd0Kg521_44100_48_0.mp3" />
+      <file href="mobile/5qk9ErP1YmH_80_DX286_DY286_CX143_CY136.png" />
+      <file href="mobile/6jhOrlVtrv6_80_DX286_DY286_CX143_CY136.png" />
+      <file href="mobile/6eXvuxYNJX9_80_DX198_DY198_CX143_CY123.png" />
+      <file href="story_content/6D6NuXM84x1_44100_48_0.mp3" />
+      <file href="mobile/5eJIV3MvET8_80_DX286_DY286_CX143_CY136.gif" />
+      <file href="story_content/6rCgdnDoYBE_44100_48_0.mp3" />
+      <file href="mobile/5iDOVcVOxFn_80_DX1440_DY1440_CX917_CY623.png" />
+      <file href="story_content/6lKsNxEoXvp_44100_48_0.mp3" />
+      <file href="story_content/5lKHcdfKMYa_44100_48_0.mp3" />
+      <file href="mobile/5hU0mwAsO3V_80_P_0_0_830_623_DX1578_DY1578_CX830_CY623.png" />
+      <file href="mobile/6368kJrmZX4_80_DX1590_DY1590_CX917_CY623.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/txt__default_6MkhLxJxk9d.png" />
+      <file href="mobile/txt__default_6Iwndm5WnN0.png" />
+      <file href="mobile/txt__default_67xZQkCiIlB.png" />
+      <file href="mobile/txt__default_5gpqluzXaId.png" />
+      <file href="mobile/txt__default_67W9qiNzTIk.png" />
+      <file href="mobile/txt__default_6qQ4GY5jMqN.png" />
+      <file href="mobile/txt__default_6Qn7NYcv8Zn.png" />
+      <file href="mobile/txt__default_6KfcmXVK0ou.png" />
+      <file href="mobile/txt__default_6es8QFz4PFe.png" />
+      <file href="mobile/txt__default_6NbLCNpt54w.png" />
+      <file href="mobile/txt__default_6QZN4eoblTI.png" />
+      <file href="mobile/txt__default_6gDpxdaj3gX.png" />
+      <file href="mobile/txt__default_63HJO7qesYd.png" />
+      <file href="mobile/txt__default_5dEJKI34IiD.png" />
+      <file href="mobile/txt__default_5ymxTmqdXj5.png" />
+      <file href="mobile/txt__default_6LA5chTxJrc.png" />
+      <file href="mobile/txt__default_66BXtqAC3Ob.png" />
+      <file href="mobile/txt__default_5V7SefcN3KV.png" />
+      <file href="mobile/txt__default_6aA3X3dbwec.png" />
+      <file href="mobile/txt__default_6IQJ7Uz1Ana.png" />
+      <file href="mobile/txt__default_6Y85OG4FLKo.png" />
+      <file href="mobile/txt__default_5c5Y02rQWMC.png" />
+      <file href="mobile/txt__default_668zjevlypl.png" />
+      <file href="mobile/txt__default_5tqL6nnBOLQ.png" />
+      <file href="mobile/txt__default_5XtPEkxnnJQ.png" />
+      <file href="mobile/txt__default_6NHK28QLu3O.png" />
+      <file href="mobile/txt__default_6WU9evJExqL.png" />
+      <file href="mobile/txt__default_6ACUzwQ8zj8.png" />
+      <file href="mobile/txt__default_6AxukGmBLeX.png" />
+      <file href="mobile/txt__default_5zMXQPyQgK3.png" />
+      <file href="mobile/txt__default_63GbDpccca5.png" />
+      <file href="mobile/txt__default_6JjlGiFzkaP.png" />
+      <file href="mobile/txt__default_6gh4t4rjIxj.png" />
+      <file href="mobile/txt__default_5xfQHLtlvVL.png" />
+      <file href="mobile/txt__default_5l2KoeyrV4D.png" />
+      <file href="mobile/txt__default_6WkcdSYxaYC.png" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/65zCCgPPUFc.js" />
+      <file href="html5/data/js/6jWxcsYuSMc.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/data/js/63ErkikGfmo.js" />
+      <file href="html5/data/js/68VcKRkLuXq.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/6QUmdtRGttc.js" />
+      <file href="html5/data/js/5tJxl0dvX8V.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/LICENSE.txt" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
